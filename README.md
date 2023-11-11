@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marufbellah&label=Profile%20views&color=0e75b6&style=flat" alt="marufbellah" /> </p>
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **React-Native and Other something**
 
 - 👨‍💻 All of my projects are available at [https://maruf-bellah.netlify.app/](https://maruf-bellah.netlify.app/)
 
