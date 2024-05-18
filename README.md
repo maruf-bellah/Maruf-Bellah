@@ -1,5 +1,5 @@
 <div>
-  <img  align="right" alt="Coding" width="400" margin-top= '200' src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" alt="">
+  <img  align="right" alt="Coding" width="400" marginTop= '200' src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" alt="">
 
 </div>
 
