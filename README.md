@@ -1,82 +1,142 @@
-<div align="center">
-  <img 
-    src="/mnt/data/An_animated-style_illustration_of_a_programmer_sit.png" 
-    alt="Coding Animation" 
-    width="400" 
-    style="margin-top: 20px;"
-  />
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio - Maruf Bellah</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: Arial, sans-serif;
+    }
 
-<h1 align="center">Hi 👋, I'm Maruf Bellah</h1>
-<h3 align="center">A Passionate Frontend Developer from Bangladesh</h3>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #f4f4f9;
+    }
 
-<div align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=marufbellah&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="Profile Views" 
-  />
-</div>
+    .portfolio-container {
+      display: flex;
+      width: 90%;
+      max-width: 1200px;
+      background-color: #fff;
+      box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+      border-radius: 10px;
+      overflow: hidden;
+    }
 
-<br>
+    .left-section {
+      background-color: #2c3e50;
+      color: #fff;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
 
-<div align="center">
-  🌱 <strong>Currently Learning:</strong> React-Native and more <br>
-  👨‍💻 <strong>Portfolio:</strong> <a href="https://maruf-bellah.netlify.app/">maruf-bellah.netlify.app</a> <br>
-  💬 <strong>Ask me about:</strong> React <br>
-  📫 <strong>Contact me:</strong> mdmaruf5511507@gmail.com <br>
-  ⚡ <strong>Fun Fact:</strong> I am Funny
-</div>
+    .left-section img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      margin-bottom: 20px;
+      border: 4px solid #ecf0f1;
+    }
 
-<br>
+    .left-section h2 {
+      margin-bottom: 10px;
+    }
 
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
-</div>
+    .left-section p {
+      text-align: center;
+      font-size: 14px;
+      line-height: 1.6;
+    }
 
-<br>
+    .right-section {
+      flex: 2;
+      padding: 30px;
+    }
 
-<h3 align="center">Support Me:</h3>
-<div align="center">
-  <a href="https://www.buymeacoffee.com/marufbellah">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-  </a>
-</div>
+    .right-section h1 {
+      margin-bottom: 20px;
+      color: #2c3e50;
+    }
+
+    .info-group {
+      margin-bottom: 15px;
+    }
+
+    .info-group strong {
+      display: inline-block;
+      width: 120px;
+      color: #34495e;
+    }
+
+    .info-group span {
+      color: #7f8c8d;
+    }
+
+    .social-links {
+      display: flex;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    .social-links a {
+      text-decoration: none;
+      color: #fff;
+      background-color: #3498db;
+      padding: 10px 15px;
+      border-radius: 5px;
+      transition: background-color 0.3s;
+    }
+
+    .social-links a:hover {
+      background-color: #2980b9;
+    }
+  </style>
+</head>
+<body>
+  <div class="portfolio-container">
+    <!-- Left Section -->
+    <div class="left-section">
+      <img src="https://via.placeholder.com/150" alt="Maruf Bellah">
+      <h2>Maruf Bellah</h2>
+      <p>Passionate Frontend Developer from Bangladesh. Focused on creating dynamic, beautiful, and responsive web applications.</p>
+    </div>
+
+    <!-- Right Section -->
+    <div class="right-section">
+      <h1>About Me</h1>
+      <div class="info-group">
+        <strong>📍 Address:</strong> <span>Dhaka, Bangladesh</span>
+      </div>
+      <div class="info-group">
+        <strong>📧 Email:</strong> <span>mdmaruf5511507@gmail.com</span>
+      </div>
+      <div class="info-group">
+        <strong>📞 Phone:</strong> <span>+880123456789</span>
+      </div>
+      <div class="info-group">
+        <strong>🌐 Website:</strong> <span><a href="https://maruf-bellah.netlify.app/" target="_blank">maruf-bellah.netlify.app</a></span>
+      </div>
+      <div class="info-group">
+        <strong>⚡ Fun Fact:</strong> <span>I am Funny!</span>
+      </div>
+
+      <div class="social-links">
+        <a href="https://linkedin.com" target="_blank">LinkedIn</a>
+        <a href="https://github.com" target="_blank">GitHub</a>
+        <a href="https://twitter.com" target="_blank">Twitter</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
