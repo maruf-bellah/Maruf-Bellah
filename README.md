@@ -1,38 +1,30 @@
-<div align="center">
+# Hi 👋, I'm Maruf Bellah
+### A Passionate Frontend Developer from Bangladesh
+
+---
+
+<p align="center">
   <img 
     src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" 
     alt="Coding Animation" 
     width="400" 
+    style="border-radius: 10px;"
   />
-</div>
-
-<h1 align="center">Hi 👋, I'm Maruf Bellah</h1>
-<h3 align="center">A Passionate Frontend Developer from Bangladesh</h3>
+</p>
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: wrap; margin-bottom: 20px;">
-  <!-- Image Section -->
-  <div style="flex: 1; max-width: 400px; text-align: center;">
-    <img 
-      src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" 
-      alt="Coding Animation" 
-      width="400" 
-      style="border-radius: 10px;"
-    />
-  </div>
+### 👨‍💻 About Me
 
-  <!-- Text Section -->
-  <div style="flex: 2; max-width: 600px; margin-left: 20px;">
-    <h3>👨‍💻 About Me</h3>
-    <p>
-      🌱 **Currently Learning:** React-Native and more <br>
-      👨‍💻 **Portfolio:** [maruf-bellah.netlify.app](https://maruf-bellah.netlify.app/) <br>
-      💬 **Ask me about:** React <br>
-      📫 **Contact me:** [mdmaruf5511507@gmail.com](mailto:mdmaruf5511507@gmail.com) <br>
-      ⚡ **Fun Fact:** I am Funny <br>
-    </p>
-# 🛠️ Languages and Tools:
+- 🌱 **Currently Learning**: React-Native and more
+- 👨‍💻 **Portfolio**: [maruf-bellah.netlify.app](https://maruf-bellah.netlify.app/)
+- 💬 **Ask me about**: React
+- 📫 **Contact me**: [mdmaruf5511507@gmail.com](mailto:mdmaruf5511507@gmail.com)
+- ⚡ **Fun Fact**: I am funny
+
+---
+
+### 🛠️ Languages and Tools:
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
@@ -51,7 +43,7 @@
 
 ---
 
-# ☕ Support Me:
+### ☕ Support Me:
 <p align="center">
   <a href="https://www.buymeacoffee.com/marufbellah">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
@@ -60,14 +52,11 @@
 
 ---
 
-
-# 📊 Github Stats:
+### 📊 Github Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maruf-bellah&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
 </p>
 
-</div>
-
 ---
 
-<h3 align="center">Thanks for visiting my profile! Let's connect and collaborate. 🙌</h3>
+### 🙌 Thanks for visiting my profile! Let's connect and collaborate.
