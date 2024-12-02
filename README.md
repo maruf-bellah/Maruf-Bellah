@@ -1,3 +1,16 @@
+<div align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" 
+    alt="Coding Animation" 
+    width="400" 
+  />
+</div>
+
+<h1 align="center">Hi 👋, I'm Maruf Bellah</h1>
+<h3 align="center">A Passionate Frontend Developer from Bangladesh</h3>
+
+---
+
 <div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: wrap; margin-bottom: 20px;">
   <!-- Image Section -->
   <div style="flex: 1; max-width: 400px; text-align: center;">
@@ -11,14 +24,13 @@
 
   <!-- Text Section -->
   <div style="flex: 2; max-width: 600px; margin-left: 20px;">
-    <h1>Hi 👋, I'm Maruf Bellah</h1>
-    <h3>A Passionate Frontend Developer from Bangladesh</h3>
+    <h3>👨‍💻 About Me</h3>
     <p>
       🌱 **Currently Learning:** React-Native and more <br>
       👨‍💻 **Portfolio:** [maruf-bellah.netlify.app](https://maruf-bellah.netlify.app/) <br>
       💬 **Ask me about:** React <br>
       📫 **Contact me:** [mdmaruf5511507@gmail.com](mailto:mdmaruf5511507@gmail.com) <br>
-      ⚡ **Fun Fact:** I am Funny
+      ⚡ **Fun Fact:** I am Funny <br>
     </p>
 
     <h3>🛠️ Languages and Tools:</h3>
@@ -44,5 +56,14 @@
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
       </a>
     </div>
+
+    <h3>📊 Github Stats:</h3>
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=marufbellah&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
+    </div>
   </div>
 </div>
+
+---
+
+<h3 align="center">Thanks for visiting my profile! Let's connect and collaborate. 🙌</h3>
