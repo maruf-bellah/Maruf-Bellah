@@ -1,11 +1,14 @@
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; margin: 20px;">
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; margin: 20px;">
+  <!-- Image Section -->
   <div style="flex: 1; max-width: 400px; text-align: center;">
     <img 
       src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" 
       alt="Coding Animation" 
-      style="width: 100%; max-width: 400px; margin-bottom: 20px;"
+      style="width: 100%; max-width: 400px; border-radius: 10px;"
     />
   </div>
+
+  <!-- Text Section -->
   <div style="flex: 2; max-width: 600px; margin-left: 20px;">
     <h1>Hi 👋, I'm Maruf Bellah</h1>
     <h3>A Passionate Frontend Developer from Bangladesh</h3>
@@ -17,7 +20,7 @@
       📫 <strong>Contact me:</strong> mdmaruf5511507@gmail.com <br>
       ⚡ <strong>Fun Fact:</strong> I am Funny
     </p>
-    <br>
+
     <h3>Languages and Tools:</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -60,7 +63,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
       </a>
     </div>
-    <br>
+
     <h3>Support Me:</h3>
     <a href="https://www.buymeacoffee.com/marufbellah">
       <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
