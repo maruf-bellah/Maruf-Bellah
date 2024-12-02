@@ -3,17 +3,6 @@
 
 ---
 
-<p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" 
-    alt="Coding Animation" 
-    width="400" 
-    style="border-radius: 10px;"
-  />
-</p>
-
----
-
 ### 👨‍💻 About Me
 
 - 🌱 **Currently Learning**: React-Native and more
