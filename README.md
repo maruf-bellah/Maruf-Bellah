@@ -36,7 +36,7 @@
 
 ### 📊 Github Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marufbellah&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maruf-bellah&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
 </p>
 
 ---
