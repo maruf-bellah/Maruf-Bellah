@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" 
+    src="/mnt/data/An_animated-style_illustration_of_a_programmer_sit.png" 
     alt="Coding Animation" 
     width="400" 
     style="margin-top: 20px;"
